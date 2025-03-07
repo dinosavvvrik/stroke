@@ -15,10 +15,4 @@ p {
     margin-left: 0%;
     width: 100%;
   }
-
-  75% {
-    font-size: 300%;
-    margin-left: 25%;
-    width: 150%;
-  }
 }
